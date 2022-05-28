@@ -14,3 +14,6 @@ endfunction(build_options)
 
 add_executable(hello src/hello.cpp)
 build_options(hello)
+
+add_executable(optional src/optional.cpp)
+build_options(optional)
