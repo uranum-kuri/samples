@@ -17,3 +17,6 @@ build_options(hello)
 
 add_executable(optional src/optional.cpp)
 build_options(optional)
+
+add_executable(shared_mutex src/shared_mutex.cpp)
+build_options(shared_mutex)
