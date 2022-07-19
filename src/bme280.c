@@ -83,7 +83,7 @@
 #define OSR_PRES_OFFSET (2)      ///< bit offset of bme280_osr_pres_t
 #define OSR_HUM_OFFSET (0)       ///< bit offset of bme280_osr_hum_t
 #define STANDBY_TIME_OFFSET (5)  ///< bit offset of bme280_standby_time_t
-#define FILTER_OFFSET (3)        ///< bit offset of bme280_filter_t
+#define FILTER_OFFSET (2)        ///< bit offset of bme280_filter_t
 #define MODE_OFFSET (0)          ///< bit offset of bme280_mode_t
 
 /// @}
